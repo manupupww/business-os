@@ -1,0 +1,9 @@
+node_modules/
+backend/node_modules/
+frontend/node_modules/
+backend/business_os.db
+papildomos_idejos/
+.env
+.DS_Store
+dist/
+build/
